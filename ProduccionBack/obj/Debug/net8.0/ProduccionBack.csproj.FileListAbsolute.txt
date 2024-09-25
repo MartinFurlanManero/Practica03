@@ -1,0 +1,14 @@
+C:\Users\marti\OneDrive\Documentos\TUP\PROG\C#\ProduccionBack\bin\Debug\net8.0\ProduccionBack.deps.json
+C:\Users\marti\OneDrive\Documentos\TUP\PROG\C#\ProduccionBack\bin\Debug\net8.0\ProduccionBack.dll
+C:\Users\marti\OneDrive\Documentos\TUP\PROG\C#\ProduccionBack\bin\Debug\net8.0\ProduccionBack.pdb
+C:\Users\marti\OneDrive\Documentos\TUP\PROG\C#\ProduccionBack\obj\Debug\net8.0\ProduccionBack.csproj.AssemblyReference.cache
+C:\Users\marti\OneDrive\Documentos\TUP\PROG\C#\ProduccionBack\obj\Debug\net8.0\ProduccionBack.Properties.Resources.resources
+C:\Users\marti\OneDrive\Documentos\TUP\PROG\C#\ProduccionBack\obj\Debug\net8.0\ProduccionBack.csproj.GenerateResource.cache
+C:\Users\marti\OneDrive\Documentos\TUP\PROG\C#\ProduccionBack\obj\Debug\net8.0\ProduccionBack.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marti\OneDrive\Documentos\TUP\PROG\C#\ProduccionBack\obj\Debug\net8.0\ProduccionBack.AssemblyInfoInputs.cache
+C:\Users\marti\OneDrive\Documentos\TUP\PROG\C#\ProduccionBack\obj\Debug\net8.0\ProduccionBack.AssemblyInfo.cs
+C:\Users\marti\OneDrive\Documentos\TUP\PROG\C#\ProduccionBack\obj\Debug\net8.0\ProduccionBack.csproj.CoreCompileInputs.cache
+C:\Users\marti\OneDrive\Documentos\TUP\PROG\C#\ProduccionBack\obj\Debug\net8.0\ProduccionBack.dll
+C:\Users\marti\OneDrive\Documentos\TUP\PROG\C#\ProduccionBack\obj\Debug\net8.0\refint\ProduccionBack.dll
+C:\Users\marti\OneDrive\Documentos\TUP\PROG\C#\ProduccionBack\obj\Debug\net8.0\ProduccionBack.pdb
+C:\Users\marti\OneDrive\Documentos\TUP\PROG\C#\ProduccionBack\obj\Debug\net8.0\ref\ProduccionBack.dll

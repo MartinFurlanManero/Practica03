@@ -1,0 +1,134 @@
+[
+  {
+    "ContainingType": "Practica03.Controllers.ArticuloController",
+    "Method": "Get",
+    "RelativePath": "api/Articulo",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Practica03.Controllers.ArticuloController",
+    "Method": "Post",
+    "RelativePath": "api/Articulo",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "articulo",
+        "Type": "ProduccionBack.Dominio.Articulo",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Practica03.Controllers.ArticuloController",
+    "Method": "Put",
+    "RelativePath": "api/Articulo",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "articulo",
+        "Type": "ProduccionBack.Dominio.Articulo",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Practica03.Controllers.ArticuloController",
+    "Method": "Delete",
+    "RelativePath": "api/Articulo/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Practica03.Controllers.FacturaController",
+    "Method": "Get",
+    "RelativePath": "api/Factura",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Practica03.Controllers.FacturaController",
+    "Method": "Post",
+    "RelativePath": "api/Factura",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "factura",
+        "Type": "ProduccionBack.Dominio.Factura",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Practica03.Controllers.FacturaController",
+    "Method": "Put",
+    "RelativePath": "api/Factura",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "factura",
+        "Type": "ProduccionBack.Dominio.Factura",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Practica03.Controllers.FacturaController",
+    "Method": "GetById",
+    "RelativePath": "api/Factura/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Practica03.Controllers.FacturaController",
+    "Method": "Delete",
+    "RelativePath": "api/Factura/{nroFactura}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "nroFactura",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]

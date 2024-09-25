@@ -1,0 +1,311 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\marti\\OneDrive\\Documentos\\TUP\\PROG\\C#\\Practica03\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7B26FC2A-0F80-46E5-974B-085893CAC806}|Practica03.csproj|c:\\users\\marti\\onedrive\\documentos\\tup\\prog\\c#\\practica03\\controllers\\articulocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B26FC2A-0F80-46E5-974B-085893CAC806}|Practica03.csproj|solutionrelative:controllers\\articulocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B26FC2A-0F80-46E5-974B-085893CAC806}|Practica03.csproj|c:\\users\\marti\\onedrive\\documentos\\tup\\prog\\c#\\practica03\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B26FC2A-0F80-46E5-974B-085893CAC806}|Practica03.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B26FC2A-0F80-46E5-974B-085893CAC806}|Practica03.csproj|c:\\users\\marti\\onedrive\\documentos\\tup\\prog\\c#\\practica03\\practica03.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{7B26FC2A-0F80-46E5-974B-085893CAC806}|Practica03.csproj|solutionrelative:practica03.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B26FC2A-0F80-46E5-974B-085893CAC806}|Practica03.csproj|c:\\users\\marti\\onedrive\\documentos\\tup\\prog\\c#\\practica03\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{7B26FC2A-0F80-46E5-974B-085893CAC806}|Practica03.csproj|solutionrelative:properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B26FC2A-0F80-46E5-974B-085893CAC806}|Practica03.csproj|c:\\users\\marti\\onedrive\\documentos\\tup\\prog\\c#\\practica03\\controllers\\facturacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B26FC2A-0F80-46E5-974B-085893CAC806}|Practica03.csproj|solutionrelative:controllers\\facturacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD9BABBB-4EA1-4A82-805A-611841B2C9B7}|..\\ProduccionBack\\ProduccionBack.csproj|c:\\users\\marti\\onedrive\\documentos\\tup\\prog\\c#\\produccionback\\datos\\interfaces\\iarticulorepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD9BABBB-4EA1-4A82-805A-611841B2C9B7}|..\\ProduccionBack\\ProduccionBack.csproj|c:\\users\\marti\\onedrive\\documentos\\tup\\prog\\c#\\produccionback\\datos\\interfaces\\ifacturarepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD9BABBB-4EA1-4A82-805A-611841B2C9B7}|..\\ProduccionBack\\ProduccionBack.csproj|c:\\users\\marti\\onedrive\\documentos\\tup\\prog\\c#\\produccionback\\dominio\\factura.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD9BABBB-4EA1-4A82-805A-611841B2C9B7}|..\\ProduccionBack\\ProduccionBack.csproj|c:\\users\\marti\\onedrive\\documentos\\tup\\prog\\c#\\produccionback\\dominio\\formapago.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD9BABBB-4EA1-4A82-805A-611841B2C9B7}|..\\ProduccionBack\\ProduccionBack.csproj|c:\\users\\marti\\onedrive\\documentos\\tup\\prog\\c#\\produccionback\\servicios\\articulomanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD9BABBB-4EA1-4A82-805A-611841B2C9B7}|..\\ProduccionBack\\ProduccionBack.csproj|c:\\users\\marti\\onedrive\\documentos\\tup\\prog\\c#\\produccionback\\servicios\\facturamanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD9BABBB-4EA1-4A82-805A-611841B2C9B7}|..\\ProduccionBack\\ProduccionBack.csproj|c:\\users\\marti\\onedrive\\documentos\\tup\\prog\\c#\\produccionback\\servicios\\iarticulomanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD9BABBB-4EA1-4A82-805A-611841B2C9B7}|..\\ProduccionBack\\ProduccionBack.csproj|c:\\users\\marti\\onedrive\\documentos\\tup\\prog\\c#\\produccionback\\servicios\\ifacturamanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD9BABBB-4EA1-4A82-805A-611841B2C9B7}|..\\ProduccionBack\\ProduccionBack.csproj|c:\\users\\marti\\onedrive\\documentos\\tup\\prog\\c#\\produccionback\\datos\\utilidades\\datahelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD9BABBB-4EA1-4A82-805A-611841B2C9B7}|..\\ProduccionBack\\ProduccionBack.csproj|c:\\users\\marti\\onedrive\\documentos\\tup\\prog\\c#\\produccionback\\dominio\\articulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD9BABBB-4EA1-4A82-805A-611841B2C9B7}|..\\ProduccionBack\\ProduccionBack.csproj|c:\\users\\marti\\onedrive\\documentos\\tup\\prog\\c#\\produccionback\\datos\\implementaciones\\facturarepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD9BABBB-4EA1-4A82-805A-611841B2C9B7}|..\\ProduccionBack\\ProduccionBack.csproj|c:\\users\\marti\\onedrive\\documentos\\tup\\prog\\c#\\produccionback\\datos\\implementaciones\\articulorepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD9BABBB-4EA1-4A82-805A-611841B2C9B7}|..\\ProduccionBack\\ProduccionBack.csproj|c:\\users\\marti\\onedrive\\documentos\\tup\\prog\\c#\\produccionback\\datos\\utilidades\\parametrosql.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD9BABBB-4EA1-4A82-805A-611841B2C9B7}|..\\ProduccionBack\\ProduccionBack.csproj|c:\\users\\marti\\onedrive\\documentos\\tup\\prog\\c#\\produccionback\\dominio\\detallefactura.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 14,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\marti\\OneDrive\\Documentos\\TUP\\PROG\\C#\\Practica03\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\marti\\OneDrive\\Documentos\\TUP\\PROG\\C#\\Practica03\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-25T23:09:43.167Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\marti\\OneDrive\\Documentos\\TUP\\PROG\\C#\\Practica03\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\marti\\OneDrive\\Documentos\\TUP\\PROG\\C#\\Practica03\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-09-25T23:08:36.722Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FacturaController.cs",
+              "DocumentMoniker": "C:\\Users\\marti\\OneDrive\\Documentos\\TUP\\PROG\\C#\\Practica03\\Controllers\\FacturaController.cs",
+              "RelativeDocumentMoniker": "Controllers\\FacturaController.cs",
+              "ToolTip": "C:\\Users\\marti\\OneDrive\\Documentos\\TUP\\PROG\\C#\\Practica03\\Controllers\\FacturaController.cs",
+              "RelativeToolTip": "Controllers\\FacturaController.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAAkwBgAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-25T22:59:45.986Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "FacturaRepositorio.cs",
+              "DocumentMoniker": "C:\\Users\\marti\\OneDrive\\Documentos\\TUP\\PROG\\C#\\ProduccionBack\\Datos\\Implementaciones\\FacturaRepositorio.cs",
+              "RelativeDocumentMoniker": "..\\ProduccionBack\\Datos\\Implementaciones\\FacturaRepositorio.cs",
+              "ToolTip": "C:\\Users\\marti\\OneDrive\\Documentos\\TUP\\PROG\\C#\\ProduccionBack\\Datos\\Implementaciones\\FacturaRepositorio.cs",
+              "RelativeToolTip": "..\\ProduccionBack\\Datos\\Implementaciones\\FacturaRepositorio.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-25T22:51:35.184Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ArticuloRepositorio.cs",
+              "DocumentMoniker": "C:\\Users\\marti\\OneDrive\\Documentos\\TUP\\PROG\\C#\\ProduccionBack\\Datos\\Implementaciones\\ArticuloRepositorio.cs",
+              "RelativeDocumentMoniker": "..\\ProduccionBack\\Datos\\Implementaciones\\ArticuloRepositorio.cs",
+              "ToolTip": "C:\\Users\\marti\\OneDrive\\Documentos\\TUP\\PROG\\C#\\ProduccionBack\\Datos\\Implementaciones\\ArticuloRepositorio.cs",
+              "RelativeToolTip": "..\\ProduccionBack\\Datos\\Implementaciones\\ArticuloRepositorio.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-25T22:50:58.477Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IArticuloRepositorio.cs",
+              "DocumentMoniker": "C:\\Users\\marti\\OneDrive\\Documentos\\TUP\\PROG\\C#\\ProduccionBack\\Datos\\Interfaces\\IArticuloRepositorio.cs",
+              "RelativeDocumentMoniker": "..\\ProduccionBack\\Datos\\Interfaces\\IArticuloRepositorio.cs",
+              "ToolTip": "C:\\Users\\marti\\OneDrive\\Documentos\\TUP\\PROG\\C#\\ProduccionBack\\Datos\\Interfaces\\IArticuloRepositorio.cs",
+              "RelativeToolTip": "..\\ProduccionBack\\Datos\\Interfaces\\IArticuloRepositorio.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-25T22:50:06.596Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Articulo.cs",
+              "DocumentMoniker": "C:\\Users\\marti\\OneDrive\\Documentos\\TUP\\PROG\\C#\\ProduccionBack\\Dominio\\Articulo.cs",
+              "RelativeDocumentMoniker": "..\\ProduccionBack\\Dominio\\Articulo.cs",
+              "ToolTip": "C:\\Users\\marti\\OneDrive\\Documentos\\TUP\\PROG\\C#\\ProduccionBack\\Dominio\\Articulo.cs",
+              "RelativeToolTip": "..\\ProduccionBack\\Dominio\\Articulo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-25T22:49:33.13Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "DetalleFactura.cs",
+              "DocumentMoniker": "C:\\Users\\marti\\OneDrive\\Documentos\\TUP\\PROG\\C#\\ProduccionBack\\Dominio\\DetalleFactura.cs",
+              "RelativeDocumentMoniker": "..\\ProduccionBack\\Dominio\\DetalleFactura.cs",
+              "ToolTip": "C:\\Users\\marti\\OneDrive\\Documentos\\TUP\\PROG\\C#\\ProduccionBack\\Dominio\\DetalleFactura.cs",
+              "RelativeToolTip": "..\\ProduccionBack\\Dominio\\DetalleFactura.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-25T22:49:28.183Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Factura.cs",
+              "DocumentMoniker": "C:\\Users\\marti\\OneDrive\\Documentos\\TUP\\PROG\\C#\\ProduccionBack\\Dominio\\Factura.cs",
+              "RelativeDocumentMoniker": "..\\ProduccionBack\\Dominio\\Factura.cs",
+              "ToolTip": "C:\\Users\\marti\\OneDrive\\Documentos\\TUP\\PROG\\C#\\ProduccionBack\\Dominio\\Factura.cs",
+              "RelativeToolTip": "..\\ProduccionBack\\Dominio\\Factura.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-25T22:49:20.853Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "FormaPago.cs",
+              "DocumentMoniker": "C:\\Users\\marti\\OneDrive\\Documentos\\TUP\\PROG\\C#\\ProduccionBack\\Dominio\\FormaPago.cs",
+              "RelativeDocumentMoniker": "..\\ProduccionBack\\Dominio\\FormaPago.cs",
+              "ToolTip": "C:\\Users\\marti\\OneDrive\\Documentos\\TUP\\PROG\\C#\\ProduccionBack\\Dominio\\FormaPago.cs",
+              "RelativeToolTip": "..\\ProduccionBack\\Dominio\\FormaPago.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-25T22:49:11.617Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "IFacturaManager.cs",
+              "DocumentMoniker": "C:\\Users\\marti\\OneDrive\\Documentos\\TUP\\PROG\\C#\\ProduccionBack\\Servicios\\IFacturaManager.cs",
+              "RelativeDocumentMoniker": "..\\ProduccionBack\\Servicios\\IFacturaManager.cs",
+              "ToolTip": "C:\\Users\\marti\\OneDrive\\Documentos\\TUP\\PROG\\C#\\ProduccionBack\\Servicios\\IFacturaManager.cs",
+              "RelativeToolTip": "..\\ProduccionBack\\Servicios\\IFacturaManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-25T22:47:44.745Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "IArticuloManager.cs",
+              "DocumentMoniker": "C:\\Users\\marti\\OneDrive\\Documentos\\TUP\\PROG\\C#\\ProduccionBack\\Servicios\\IArticuloManager.cs",
+              "RelativeDocumentMoniker": "..\\ProduccionBack\\Servicios\\IArticuloManager.cs",
+              "ToolTip": "C:\\Users\\marti\\OneDrive\\Documentos\\TUP\\PROG\\C#\\ProduccionBack\\Servicios\\IArticuloManager.cs",
+              "RelativeToolTip": "..\\ProduccionBack\\Servicios\\IArticuloManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-25T22:47:43.793Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "FacturaManager.cs",
+              "DocumentMoniker": "C:\\Users\\marti\\OneDrive\\Documentos\\TUP\\PROG\\C#\\ProduccionBack\\Servicios\\FacturaManager.cs",
+              "RelativeDocumentMoniker": "..\\ProduccionBack\\Servicios\\FacturaManager.cs",
+              "ToolTip": "C:\\Users\\marti\\OneDrive\\Documentos\\TUP\\PROG\\C#\\ProduccionBack\\Servicios\\FacturaManager.cs",
+              "RelativeToolTip": "..\\ProduccionBack\\Servicios\\FacturaManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-25T22:47:41.351Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ArticuloManager.cs",
+              "DocumentMoniker": "C:\\Users\\marti\\OneDrive\\Documentos\\TUP\\PROG\\C#\\ProduccionBack\\Servicios\\ArticuloManager.cs",
+              "RelativeDocumentMoniker": "..\\ProduccionBack\\Servicios\\ArticuloManager.cs",
+              "ToolTip": "C:\\Users\\marti\\OneDrive\\Documentos\\TUP\\PROG\\C#\\ProduccionBack\\Servicios\\ArticuloManager.cs",
+              "RelativeToolTip": "..\\ProduccionBack\\Servicios\\ArticuloManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-25T22:47:39.181Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ArticuloController.cs",
+              "DocumentMoniker": "C:\\Users\\marti\\OneDrive\\Documentos\\TUP\\PROG\\C#\\Practica03\\Controllers\\ArticuloController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ArticuloController.cs",
+              "ToolTip": "C:\\Users\\marti\\OneDrive\\Documentos\\TUP\\PROG\\C#\\Practica03\\Controllers\\ArticuloController.cs",
+              "RelativeToolTip": "Controllers\\ArticuloController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-25T22:47:20.924Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Practica03.csproj",
+              "DocumentMoniker": "C:\\Users\\marti\\OneDrive\\Documentos\\TUP\\PROG\\C#\\Practica03\\Practica03.csproj",
+              "RelativeDocumentMoniker": "Practica03.csproj",
+              "ToolTip": "C:\\Users\\marti\\OneDrive\\Documentos\\TUP\\PROG\\C#\\Practica03\\Practica03.csproj",
+              "RelativeToolTip": "Practica03.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-09-25T22:46:48.415Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IFacturaRepositorio.cs",
+              "DocumentMoniker": "C:\\Users\\marti\\OneDrive\\Documentos\\TUP\\PROG\\C#\\ProduccionBack\\Datos\\Interfaces\\IFacturaRepositorio.cs",
+              "RelativeDocumentMoniker": "..\\ProduccionBack\\Datos\\Interfaces\\IFacturaRepositorio.cs",
+              "ToolTip": "C:\\Users\\marti\\OneDrive\\Documentos\\TUP\\PROG\\C#\\ProduccionBack\\Datos\\Interfaces\\IFacturaRepositorio.cs",
+              "RelativeToolTip": "..\\ProduccionBack\\Datos\\Interfaces\\IFacturaRepositorio.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-25T22:39:18.669Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "ParametroSQL.cs",
+              "DocumentMoniker": "C:\\Users\\marti\\OneDrive\\Documentos\\TUP\\PROG\\C#\\ProduccionBack\\Datos\\Utilidades\\ParametroSQL.cs",
+              "RelativeDocumentMoniker": "..\\ProduccionBack\\Datos\\Utilidades\\ParametroSQL.cs",
+              "ToolTip": "C:\\Users\\marti\\OneDrive\\Documentos\\TUP\\PROG\\C#\\ProduccionBack\\Datos\\Utilidades\\ParametroSQL.cs",
+              "RelativeToolTip": "..\\ProduccionBack\\Datos\\Utilidades\\ParametroSQL.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-25T22:35:20.001Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "DataHelper.cs",
+              "DocumentMoniker": "C:\\Users\\marti\\OneDrive\\Documentos\\TUP\\PROG\\C#\\ProduccionBack\\Datos\\Utilidades\\DataHelper.cs",
+              "RelativeDocumentMoniker": "..\\ProduccionBack\\Datos\\Utilidades\\DataHelper.cs",
+              "ToolTip": "C:\\Users\\marti\\OneDrive\\Documentos\\TUP\\PROG\\C#\\ProduccionBack\\Datos\\Utilidades\\DataHelper.cs",
+              "RelativeToolTip": "..\\ProduccionBack\\Datos\\Utilidades\\DataHelper.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-25T22:35:01.096Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
